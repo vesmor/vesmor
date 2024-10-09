@@ -4,7 +4,7 @@
 I'm a Computer Science student who is constantly learning and providing solutions where I see possible. I'm currently entering the final years of my academic career and look forward to contribute to impactful projects and satisfy my curiousity.
 ## 🔭 I’m currently working on 
 ### Dashcam Autouploader
-This upcoming weekend at a hack-a-thon, my friends and I will be attempting to reverse engineer our dashcams so we can build a device that will automatically store and upload footage once it reaches home network. We will attempt to build this device using a raspberry pi for storing and uploading, and using tools like wireshark to dissect the Remote Procedure Calls we will need. Stay tuned! 
+My team and I were able to build an application using a Raspberry Pi that allows you to automatically download dashcam footage through your dashcam's wifi connection, complete with the ability to initialize the application through a webapp. We were able to build this during the 36-hour Knights Hack VII hack-a-thon, and I'm proud to say we have a working demo version now up on our GitHub. We plan to continue working on this up to an alpha version to make it fully functional and allow users to never forget to upload footage again.
 
 ### ReRassor Teleoperations Console
 For my University's capstone project, I'm excited to be working as part of a 5 person team on a year long project with the Florida Space Institute, providing an intuitive and informative console to command multiple rovers. We expect this to have the ability to also simulate being in different planetary environments, and experiencing random data loss. I'm excited for the opportunity to contribute to such an impactful educational project.
