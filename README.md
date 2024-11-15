@@ -1,13 +1,17 @@
 
 # Hi there, I'm Sev! 👋🪐
 
-I'm a Computer Science student who is constantly learning and providing solutions where I see possible. I'm currently entering the final years of my academic career and look forward to contribute to impactful projects and satisfy my curiousity.
+I'm a Computer Science student who is constantly learning and providing solutions where I see possible. I'm currently entering the final years of my academic career and am actively looking for a position to contribute to impactful projects and satisfy my curiosity.
 ## 🔭 I’m currently working on 
-### Dashcam Autouploader
-My team and I were able to build an application using a Raspberry Pi that allows you to automatically download dashcam footage through your dashcam's wifi connection, complete with the ability to initialize the application through a webapp. We were able to build this during the 36-hour Knights Hack VII hack-a-thon, and I'm proud to say we have a working demo version now up on our [GitHub](https://github.com/NickAwrist/Lemon_Drop). We plan to continue working on this up to an alpha version to make it fully functional and allow users to never forget to upload footage again.
 
 ### ReRassor Teleoperations Console
 For my University's capstone project, I'm excited to be working as part of a 5 person team on a year long project with the Florida Space Institute, providing an intuitive and informative console to command multiple rovers. We expect this to have the ability to also simulate being in different planetary environments, and experiencing random data loss. I'm excited for the opportunity to contribute to such an impactful educational project.
+
+### Web Portfolio
+As part of my job search, I am currently working on a space-themed portfolio website that reflects my passion for aerospace while showcasing the interesting projects I have worked on during my career! I'm building it with the React framework and plan to use Github pages to host it. I'm very excited to share the final result, please stay tuned for the link! 
+
+<!--### Dashcam Autouploader
+My team and I were able to build an application using a Raspberry Pi that allows you to automatically download dashcam footage through your dashcam's wifi connection, complete with the ability to initialize the application through a webapp. We were able to build this during the 36-hour Knights Hack VII hack-a-thon, and I'm proud to say we have a working demo version now up on our [GitHub](https://github.com/NickAwrist/Lemon_Drop). We plan to continue working on this up to an alpha version to make it fully functional and allow users to never forget to upload footage again. -->
 
 ## 🚀 Skills and Technologies
 
@@ -25,18 +29,3 @@ For my University's capstone project, I'm excited to be working as part of a 5 p
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vesmor&layout=compact&theme=radical)
-
-<!--
-**vesmor/vesmor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
